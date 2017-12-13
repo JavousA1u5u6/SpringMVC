@@ -12,6 +12,3 @@
 ![](https://raw.githubusercontent.com/Cenyol/SpringMVC/master/images/add.jpg)
 ![](https://raw.githubusercontent.com/Cenyol/SpringMVC/master/images/update.jpg)
 ![](https://raw.githubusercontent.com/Cenyol/SpringMVC/master/images/view.jpg)
-这时测试
-
-你好哦
